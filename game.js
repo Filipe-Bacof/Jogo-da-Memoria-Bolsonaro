@@ -1,7 +1,7 @@
 const grid = document.querySelector('.grid');
 const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
-const characters = ['arma', 'canetabic', 'dormindo', 'lanche', 'mascara', 'mito', 'moto', 'palmeiras', 'winder', 'peixe'];
+const characters = ['arma', 'canetabic', 'dormindo', 'lanche', 'guitarra', 'mito', 'moto', 'palmeiras', 'winder', 'peixe'];
 
 const createElement = (tag, className) => {
     const element = document.createElement(tag);
